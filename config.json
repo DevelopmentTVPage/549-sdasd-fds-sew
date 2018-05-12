@@ -10,6 +10,20 @@
         "loginId": "1759121",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "fds.sew"
+        "cookiedomain": "fds.sew",
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "sdasd.fds.sew"
+            }
+        }
     }
 }

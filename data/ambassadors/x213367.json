@@ -1,0 +1,27 @@
+{
+    "id": "213367",
+    "first_name": "Tolu",
+    "last_name": "Adeboyejo",
+    "email": "tolulope.adeboyejo@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Pricing Manager",
+        "local_macys_store": "-1",
+        "racif_id": "80074428",
+        "phone_number": "2405051544"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-11 18:42:26",
+    "login_id": "1759121",
+    "user_id": "213367",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Tolu Adeboyejo",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "tolu-adeboyejo",
+    "title": "Tolu Adeboyejo",
+    "videos_count": "0"
+}

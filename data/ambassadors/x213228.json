@@ -1,0 +1,28 @@
+{
+    "id": "213228",
+    "first_name": "Alexandra",
+    "last_name": "Hodovanu",
+    "email": "alexandra.hodovanu@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/604038592-0.5322901894338.jpg",
+        "job_title": "Omni Associate Merchandise Planner- Gold, Men, Pearls",
+        "local_macys_store": "-1",
+        "racif_id": "10184504",
+        "phone_number": "516-313-9702",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1526050461",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 15:49:55",
+    "login_id": "1759121",
+    "user_id": "213228",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Alexandra Hodovanu",
+    "profile_picture": "\/api\/canvas\/logo\/604038592-0.5322901894338.jpg",
+    "titleTextEncoded": "alexandra-hodovanu",
+    "title": "Alexandra Hodovanu",
+    "videos_count": "0"
+}
